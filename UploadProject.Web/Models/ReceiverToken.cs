@@ -1,4 +1,4 @@
-﻿namespace UploadProject.Web.Components.Pages
+﻿namespace UploadProject.Web.Models
 {
     public class ReceiverToken
     {

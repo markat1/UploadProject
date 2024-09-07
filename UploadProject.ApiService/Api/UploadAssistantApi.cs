@@ -8,8 +8,8 @@ namespace UploadProject.ApiService.Api
     {
         public static void MapUploadApiEndpoints(this WebApplication app)
         {
-            app.MapPost("api/filesave-two", PostFile);
-            app.MapPost("api/filesave", PostFileTwo);
+            app.MapPost("api/filesave", PostFile);
+            app.MapPost("api/filesave-two", PostFileTwo);
 
             app.MapGet("/api/antiforgery-token", async (HttpContext context, IAntiforgery antiforgery) =>
             {

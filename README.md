@@ -9,5 +9,5 @@ https://learn.microsoft.com/en-us/aspnet/core/blazor/file-uploads?view=aspnetcor
 https://learn.microsoft.com/en-us/aspnet/core/blazor/call-web-api?view=aspnetcore-8.0#antiforgery-support
 
 ## Instruction:
-UploadFiles component makes it able to upload files to UploadAssistantApi in ApiService.
+UploadFiles component in UploadProject.Web makes it able to upload files to UploadAssistantApi in ApiService.
 

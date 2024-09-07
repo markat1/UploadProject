@@ -1,4 +1,4 @@
-#This project follows the following links in order to experimenting uploading based different design. 
+# This project follows the following links in order to experimenting uploading based different design. 
 
 This project is experimenting trying to upload files via minimal api and regular controller.
 
